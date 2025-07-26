@@ -24,7 +24,10 @@
 
 ### 🧪 Tech Stack
 
-`SQL` • `Python` • `Power BI` • `Tableau` • `Pandas` • `Excel` • 
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+Excel, 
 Always learning → Currently diving into: `R`, `Machine learning`, `Marketing & Business Analytics` Àlteryx`
 
 ---
