@@ -39,16 +39,16 @@ Always learning → Currently diving into: `R`, `Machine learning`, `Marketing &
 ### ✨ Fun Facts
 
 - I use **data to tell stories**—because spreadsheets deserve a soul.
-- I write about career pivots, mental health, and life between India & Germany on [Medium](https://medium.com/@kanchanjha30).
+- I write about career pivots, mental health, and life between India & Germany on [Medium](https://medium.com/@kanchanjh96).
 - If you want to talk **chai, CVs, or clustering algorithms**, I’m your girl.
 
 ---
 
 ### 📬 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/kanchanjha30)
+- 💼 [LinkedIn](https://www.linkedin.com/in/kanchanjha30/)
 - 🐍 [GitHub Projects](https://github.com/Kanchan123-byte)
-- ✍️ [Medium Articles](https://medium.com/@kanchanjha30)
+- ✍️ [Medium Articles](https://medium.com/@kanchanjh96)
 
 ---
 
