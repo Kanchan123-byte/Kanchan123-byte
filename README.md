@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-'m Kanchan Jha
+I am Kanchan Jha
 
 **Recruiter-turned-Data Analyst** | Storyteller | Future People Analytics Queen 👑  
 🌍 Currently in Munich | ☕ Chai Enthusiast | 🤖 Exploring the human side of AI  
