@@ -48,7 +48,7 @@ Always learning → Currently diving into: `R`, `Machine learning`, `Marketing &
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/kanchanjha30)
 - 🐍 [GitHub Projects](https://github.com/Kanchan123-byte)
-- ✍️ [Medium Articles]((https://medium.com/@kanchanjha30))
+- ✍️ [Medium Articles](https://medium.com/@kanchanjha30)
 
 ---
 
